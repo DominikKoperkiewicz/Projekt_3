@@ -1,0 +1,14 @@
+﻿  board.cpp
+  bot.cpp
+C:\Users\Dominik\source\repos\TicTacToe\TicTacToe\bot.cpp(101,71): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\Dominik\source\repos\TicTacToe\TicTacToe\bot.cpp(101,51): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Generowanie kodu...
+  TicTacToe.vcxproj -> C:\Users\Dominik\source\repos\TicTacToe\Debug\TicTacToe.exe
